@@ -1,4 +1,4 @@
-# app.py - Golf Swing Analysis WebApp (Render Compatible)
+# app.py - Golf Swing Analysis WebApp (Updated for Render)
 import cv2
 import mediapipe as mp
 import numpy as np
